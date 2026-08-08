@@ -13,5 +13,6 @@ circumference= 2*3.14*radius;
 //Output
 cout<<"Area of the circle is:"<< area <<endl;
 cout<<"Circumference of the circle is:"<< circumference <<endl;
+return 0;
 
 }
